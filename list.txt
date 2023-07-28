@@ -1,8 +1,9 @@
 .
 ..
+.git
+library.c
 library.h
 list.txt
-ls.c
 ls.exe
 main.c
 out.exe
