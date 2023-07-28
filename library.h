@@ -1,3 +1,3 @@
 // library 
 
-extern list_files();
+extern int list_files();
